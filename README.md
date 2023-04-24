@@ -18,5 +18,5 @@ This app has integrated functionality for stores to be able to add listings for 
       "@react-navigation/bottom-tabs": "*",
       "@react-navigation/native-stack": "*",
       "react-native-safe-area-context": "3.3.2"
-}
+       }
 
